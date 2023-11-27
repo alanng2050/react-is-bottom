@@ -2,7 +2,7 @@
   "name": "react-is-bottom",
   "version": "1.0.0",
   "description": "",
-  "private": true,
+  "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
